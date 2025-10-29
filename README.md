@@ -27,8 +27,3 @@ This project focuses on cleaning and analyzing a layoffs dataset using SQL. It c
 ## Author
 **Jeihan Ivan Hadar**
 """
-
-readme_path = Path("/mnt/data/README.txt")
-readme_path.write_text(readme_text)
-
-readme_path
